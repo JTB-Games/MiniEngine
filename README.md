@@ -1,2 +1,2 @@
 # MiniEngine
-Mini console engine written in C
+Mini lightweight console engine written in C
